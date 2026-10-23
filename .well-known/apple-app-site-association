@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["HK58MAF6LQ.com.sermonbible.app"],
+        "components": [{ "/": "/n/*", "comment": "Shared notes open in the app" }]
+      }
+    ]
+  }
+}
